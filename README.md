@@ -36,4 +36,6 @@ Our main aim is to perform data cleaning, data normalizing, testing the hypothes
    * Prediction of PM2.5 using various models.
    * Tried ARIMA and VAR models, but both models failed to give satisfactory results.
    * So, atlast we had to used Neural Networks.
+ 
+ ## Link to calculate the PM2.5 - https://ml-tweek.herokuapp.com/
                    
